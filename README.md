@@ -1,5 +1,5 @@
 ## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm JULYANTO2
-<img align="center" height="auto" src="https://github.com/julyanto2/julyanto2/blob/main/img/1.jpg"/>
+<img align="center" height="auto" src="https://github.com/julyanto2/julyanto2/blob/main/img/1.png"/>
 
 
 ## 👀I’m interested in python, php, and JavaScript coder ...
