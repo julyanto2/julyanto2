@@ -17,10 +17,6 @@
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
 <img src="https://gpvc.arturio.dev/julyanto2" alt="profile views"/>
 
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/linux.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/platform/windows.jpg" height="30"></code>
-<img src="https://gpvc.arturio.dev/julyanto2" alt="profile views"/>
-
 
 ## 📑📒📖👀I’m interested in python, php, and JavaScript coder💻 ...
 
