@@ -1,7 +1,7 @@
-<h1 align="center">Howdy <img src="https://github.com/julyanto2/julyanto2/blob/main/Hi.gif" width="30px"> Welcome to My GiHub👨‍💻❤️</h1>
+<h1 align="center">Howdy <img src="https://github.com/julyanto2/julyanto2/blob/main/Hi.gif" width="30px"> Welcome to My GitHub👨‍💻❤️</h1>
 <img align="center" height="auto" src="https://github.com/julyanto2/julyanto2/blob/main/img/1.png"/>
 <p align="center">
-<a href="#"><img title="MY-PROFILE" src="https://img.shields.io/badge/My Profile-blue?colorA=%23#0000ff&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/julyanto2"><img title="MY-PROFILE" src="https://img.shields.io/badge/My Profile-blue?colorA=%23#0000ff&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <b>- PLATFORM</b>
