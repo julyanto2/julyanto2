@@ -25,7 +25,7 @@
 ## 💞️🙋😁I’m looking to collaborate on all repo ...
 
 ## 😍📫How to reach me ...
-* <a href="https://wa.me/6281223461910"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/6281223461910"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 <!---
